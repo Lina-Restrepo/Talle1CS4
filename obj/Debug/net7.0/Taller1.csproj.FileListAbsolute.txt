@@ -1,0 +1,15 @@
+C:\Users\linam\Taller1\bin\Debug\net7.0\Taller1.exe
+C:\Users\linam\Taller1\bin\Debug\net7.0\Taller1.deps.json
+C:\Users\linam\Taller1\bin\Debug\net7.0\Taller1.runtimeconfig.json
+C:\Users\linam\Taller1\bin\Debug\net7.0\Taller1.dll
+C:\Users\linam\Taller1\bin\Debug\net7.0\Taller1.pdb
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.csproj.AssemblyReference.cache
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.AssemblyInfoInputs.cache
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.AssemblyInfo.cs
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.dll
+C:\Users\linam\Taller1\obj\Debug\net7.0\refint\Taller1.dll
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.pdb
+C:\Users\linam\Taller1\obj\Debug\net7.0\Taller1.genruntimeconfig.cache
+C:\Users\linam\Taller1\obj\Debug\net7.0\ref\Taller1.dll
